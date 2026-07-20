@@ -1,0 +1,111 @@
+"LAST NAME","FIRST NAME",RANK,SHIFT,"FIRE STATION",ROLE(S),"STATUS CODE"
+"'- Cedar Hill FD TX","Fire Department Admin",,,,"Fire Department Admin",
+1,OOS,,,,"Fire Department Basic",Active
+2,OOS,,,,"Fire Department Basic",Active
+3,OOS,,,,"Fire Department Basic",Active
+4,AVAILABLE,,A-Shift,,"Fire Department Basic",Active
+5,AVAILABLE,,,,"Fire Department Basic",Active
+6,AVAILABLE,,,"Station 214","Fire Department Basic 2.0",Active
+7,UNAVAILABLE,,,,"Fire Department Basic 2.0",Active
+ALEXANDER,REGINALD,"Fire Marshal",Admin,,"Personnel - Cedar Hill FD TX",Retired
+ALLEN,DILLON,Firefighter,B-Shift,"Station 212","Fire Department Basic 2.0, Paramedic",Active
+ATTKISSON,BENJAMIN,DRIVER-ENGINEER,B-Shift,"Station 211","Fire Department Engineer/MOT",Active
+BAILEY,BLAKE,Firefighter,A-Shift,"Station 212","Fire Department Basic 2.0, Paramedic",Active
+BAKER,MATTHEW,"MEDICAL OPERATIONS TECHNICIAN",B-Shift,"Station 213","EMS Director, Fire Department Admin, Fire Department Captain, Fire Department Engineer/MOT, Medical Operations Tech",Active
+BARTON,CHRISTOPHER,Firefighter,A-Shift,"Station 211","Fire Department Basic 2.0",Active
+BASTIAN,JACOB,Firefighter,C-Shift,"Station 213","Fire Department Basic 2.0, Paramedic",Active
+BATLA,BRENT,"ASSISTANT FIRE CHIEF",Admin,,"Fire Chief and Asst. Chief, Fire Department Admin",Active
+BELL,JOSHUA,Firefighter,A-Shift,"Station 211","Fire Department Basic 2.0",Active
+BELL,NATHANIEL,Firefighter,C-Shift,"Station 213","Fire Department Basic 2.0",Active
+BLACK,RENEE,"ADMIN ASSISTANT",Admin,,"Personnel - Cedar Hill FD TX",Resigned
+BORTH,THOMAS,Firefighter,A-Shift,"Station 212","Fire Department Basic 2.0",Active
+BRANNON,RUSSELL,"Battalion Chief",C-Shift,"Station 211","Fire Department BC",Active
+BULLARD,CHRISTOPHER,Firefighter,B-Shift,"Station 211","Fire Department Basic 2.0, Paramedic",Active
+BURLISON,ROBERT,Captain,A-Shift,"Station 213","Fire Department Captain",Active
+Blocker,OOS,,,,"Fire Department Basic",Active
+CARTER,BRITNIE,"ADMIN ASSISTANT",Admin,,"Fire Department Admin, Fire Department BC",Active
+CHAUNCEY,WILLIAM,"MEDICAL OPERATIONS TECHNICIAN",B-Shift,"Station 211","Fire Department Basic 2.0, Fire Department Engineer/MOT, Medical Operations Tech",Active
+CHAVEZ,RICARDO,Firefighter,B-Shift,"Station 212","Fire Department Basic 2.0, Paramedic",Active
+COOPER,TAMMIE,"Fire Marshal",Admin,,"Community Risk Reduction Officer2, Community Risk Reduction Officer, Fire Department BC, Fire Department Captain Inspector SME",Active
+CUNHA,PATRICK,Firefighter,C-Shift,"Station 212","Fire Department Basic 2.0, Paramedic",Active
+Carpenter,David,,,,"Regional Investigator",
+DAVIS,ETHAN,Firefighter,C-Shift,"Station 211","Fire Department Basic 2.0, Paramedic",Active
+DAVIS,JASON,Captain,C-Shift,"Station 214","Fire Department Captain",Active
+DENISON,JOHN,"Battalion Chief",B-Shift,"Station 211","Fire Department BC, Fire Department Captain NFIRS, Paramedic",Active
+DENNIS,BRITTANI,Firefighter,A-Shift,"Station 213","Personnel - Cedar Hill FD TX",Resigned
+DIKE,ALLAN,Firefighter,C-Shift,"Station 211","Fire Department Basic 2.0, Paramedic",Active
+DIXON,GRANT,Firefighter,A-Shift,"Station 211","Fire Department Basic 2.0",Active
+DIXON,RICHARD,"Battalion Chief",A-Shift,"Station 211","Personnel - Cedar Hill FD TX",Retired
+DRIGGARS,KEVIN,DRIVER-ENGINEER,A-Shift,"Station 214","Fire Department Engineer/MOT",Active
+EBANKS,KAMREN,Firefighter,B-Shift,,"Fire Department Basic 2.0, Paramedic",Active
+EICHELBERGER,JACK,Firefighter,B-Shift,"Station 211","Fire Department Basic 2.0, Paramedic",Active
+FLORES,JASON,Firefighter,C-Shift,,"Personnel - Cedar Hill FD TX",Resigned
+FUSSELL,DYLAN,Firefighter,A-Shift,"Station 213","Fire Department Basic 2.0",Active
+"First Due",Brandon,,,,"Fire Department Admin, Fire Department Basic 2.0",
+GARCIA,KYLE,Firefighter,C-Shift,"Station 211","Fire Department Basic 2.0, Paramedic",Resigned
+GLAAB,JEREMY,Firefighter,B-Shift,"Station 212","Fire Department Basic 2.0, Paramedic",Active
+GLASS,ROBERT,"MEDICAL OPERATIONS TECHNICIAN",C-Shift,"Station 212","Fire Department Basic, Fire Department Engineer/MOT, Medical Operations Tech",Active
+GRANADOS,JACOB,Firefighter,A-Shift,"Station 213","Fire Department Basic 2.0",Active
+GREENBERG,CURTIS,DRIVER-ENGINEER,A-Shift,"Station 212","Fire Department Engineer/MOT",Active
+GRIFFIN,CARY,DRIVER-ENGINEER,B-Shift,"Station 212","Fire Department Engineer/MOT",Active
+HANSON,JASON,Firefighter,B-Shift,"Station 214","Personnel - Cedar Hill FD TX",Resigned
+HARRELL,BRYAN,Firefighter,A-Shift,"Station 211","Fire Department Basic 2.0",Active
+HARRISON,MICHAEL,"FIRE CHIEF",Admin,,"Fire Chief and Asst. Chief, Fire Department Admin",Active
+HERBERT,DILLON,DRIVER-ENGINEER,C-Shift,"Station 212","Fire Department Engineer/MOT",Active
+HOLCOMB,CHRIS,"FIRE INSPECTOR",Admin,"Station 211","Community Risk Reduction Officer2, Fire Department Captain Inspector SME, Fire Department Engineer/MOT, Fire Marshal2",Active
+Hogan,Andrew,,,,"QA/QI BioTel",
+JACKSON,JACE,Firefighter,B-Shift,"Station 213","Personnel - Cedar Hill FD TX",Resigned
+JOHNSON,CADE,Firefighter,C-Shift,"Station 212","Fire Department Basic 2.0, Paramedic",Active
+JONES,KEITH,"MEDICAL OPERATIONS TECHNICIAN",C-Shift,"Station 211","Personnel - Cedar Hill FD TX",Resigned
+Kordik,Samuel,,,,"QA/QI BioTel",
+LANDERS,CORY,Captain,A-Shift,"Station 211","Fire Department Captain",Active
+LISENBEE,CAMERON,Captain,Admin,"Station 212","Personnel - Cedar Hill FD TX",Retired
+LOPEZ,MICHAEL,DRIVER-ENGINEER,C-Shift,"Station 213","Fire Department Engineer/MOT",Active
+MADRID,MARK,"FIRE TRAINING OFFICER",Admin,,"Fire Department Admin",Active
+MCMAHON,MICHAEL,Captain,B-Shift,"Station 211","Fire Department Admin, Fire Department BC",Active
+MOREE,ROBERT,Captain,B-Shift,"Station 214","Fire Department Captain",Active
+MOSS,SCOTT,Captain,C-Shift,"Station 211","Fire Department Captain",Active
+MURRAY,SHAROD,"MEDICAL OPERATIONS TECHNICIAN",A-Shift,"Station 212","Fire Department Basic 2.0, Fire Department Engineer/MOT, Medical Operations Tech",Active
+O'NEILL,JASON,"ASSISTANT FIRE CHIEF",Admin,"Station 211","EMS Director, Emergicon - Billing, Fire Chief and Asst. Chief, Fire Department Admin",Active
+OSTER,CHARLES,"MEDICAL OPERATIONS TECHNICIAN",A-Shift,"Station 213","Fire Department Basic 2.0, Fire Department Engineer/MOT, Medical Operations Tech",Active
+PENA,GERARDO,DRIVER-ENGINEER,C-Shift,,"Personnel - Cedar Hill FD TX",Retired
+PEREZ,ABEL,Firefighter,A-Shift,"Station 214","Fire Department Basic 2.0",Active
+PEREZ,AGUSTIN,Firefighter,A-Shift,"Station 212","Fire Department Basic 2.0",Active
+PEREZ,THOMAS,Firefighter,C-Shift,"Station 214","Fire Department Basic 2.0",Active
+PRIEST,SOPHIA,Firefighter,B-Shift,"Station 213","Fire Department Basic 2.0 Trainer, Paramedic",Active
+Parnell,David,,,,"Water Department",
+REYES,RAFAEL,,,,"Personnel - Cedar Hill FD TX",Retired
+RICHARDSON,CHAD,"Battalion Chief",A-Shift,"Station 211","Fire Department BC",Active
+RIDDLE,TRAVIS,Firefighter,A-Shift,,"Fire Department Basic 2.0, Paramedic",Active
+ROGERS,DREW,Firefighter,C-Shift,"Station 213","Personnel - Cedar Hill FD TX",Resigned
+SHEELEY,MICHAEL,Firefighter,C-Shift,"Station 213","Fire Department Basic 2.0, Fleet Manager2",Active
+SMITH,JUSTIN,DRIVER-ENGINEER,C-Shift,"Station 211","Fire Department Engineer/MOT",Active
+SMITH,RODNEY,"FIRE CHIEF",,,"Personnel - Cedar Hill FD TX",Retired
+SMITH,SARAH,"PUBLIC SAFETY EXECUTIVE ASSISTANT",Admin,,"Fire Department Admin",Active
+SOUTHARD,HUNTER,"MEDICAL OPERATIONS TECHNICIAN",C-Shift,"Station 213","Fire Department Basic 2.0, Fire Department Basic, Fire Department Engineer/MOT, Medical Operations Tech, Paramedic",Active
+SPATARO,JACOB,Captain,C-Shift,"Station 212","Fire Department Captain",Active
+SPENCER,DEZARAI,Firefighter,B-Shift,"Station 213","Fire Department Basic 2.0, Paramedic",Active
+Simonson,Robert,,,,"QA/QI BioTel",
+TERRY,MICHAEL,Firefighter,C-Shift,"Station 211","Fire Department Basic 2.0",Active
+THOMAS,PATRICK,Captain,A-Shift,"Station 214","Fire Department Captain of Hydrants, Fire Department Captain",Active
+THOMPSON,BLAKE,Firefighter,B-Shift,"Station 211","Fire Department Basic 2.0, Paramedic",Active
+TIGNER,JUSTIN,DRIVER-ENGINEER,B-Shift,"Station 214","Fire Department Basic 2.0, Paramedic",Active
+TURMAN,JEREMIAH,Firefighter,C-Shift,"Station 212","Fire Department Basic 2.0",Active
+"Test User",Mikey,Captain,B-Shift,"Station 211","Fire Department Admin",Retired
+Thompson,Chris,"Battalion Chief",,,"Battalion Officer, EMS Director, Medical Operations Tech, Training Officer",
+VALENCIA-GIFFORD,RYAN,DRIVER-ENGINEER,C-Shift,"Station 214","Fire Department Basic 2.0",Active
+VAUGHN,WESLEY,Captain,B-Shift,"Station 212","Fire Department Captain",Active
+VAZQUEZ,OSCAR,Captain,A-Shift,"Station 212","Battalion Officer, Fire Department Captain",Active
+WALLEN,BRYAN,DRIVER-ENGINEER,B-Shift,"Station 214","Fire Department Engineer/MOT",Active
+WASINGER,JACOB,DRIVER-ENGINEER,B-Shift,"Station 213","Fire Department Engineer/MOT",Active
+WELCH,ELLIOTT,Firefighter,B-Shift,"Station 211","Personnel - Cedar Hill FD TX",Inactive
+WENNER,DANIEL,Firefighter,C-Shift,"Station 211","Fire Department Basic 2.0, Paramedic",Active
+WHITNEY,ADAM,DRIVER-ENGINEER,A-Shift,"Station 211","Fire Department Engineer/MOT",Active
+WILLEFORD,JESSIE,Firefighter,B-Shift,"Station 213","Fire Department Basic 2.0, Paramedic",Active
+WILSON,HEATHER,Firefighter,A-Shift,,"Fire Department Basic 2.0, Paramedic",Active
+WINTERS,TRE,"MEDICAL OPERATIONS TECHNICIAN",C-Shift,"Station 213","Personnel - Cedar Hill FD TX",Resigned
+WOFFORD,MICHAEL,Captain,B-Shift,"Station 213","Fire Department Captain",Active
+WOLF,DARRELL,Captain,C-Shift,"Station 213","Battalion Officer, Cedar Hill (TX) Scheduling API Role, Chaplain, Community Risk Reduction Officer, EMS Director, Fire Department Admin, Fire Department BC, Fire Department Basic 2.0 Trainer, Fire Department Basic 2.0, Fire Department Basic, Fire Department Captain Inspector SME, Fire Department Captain NFIRS, Fire Department Captain of Hydrants, Fire Department Captain, Fire Department Engineer/MOT, Fire Department Investigators, IT User, Inspector, Logistics Admin, Medical Operations Tech, Paramedic, QA/QI BioTel, Scheduling Admin",Active
+WRIGHT,TEDVIN,DRIVER-ENGINEER,A-Shift,"Station 213","Fire Department Engineer/MOT",Active
+,"FD Chaplains",,,,Chaplain,Social
+,"OOS 4",,,,"Personnel - Cedar Hill FD TX",Active
