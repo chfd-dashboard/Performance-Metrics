@@ -1,10 +1,7 @@
 name: Render report charts
 on:
-  push:
-    paths:
-      - 'data/turnout-ytd.csv'
-      - 'data/training-ytd.csv'
-      - 'data/personnel.csv'
+  schedule:
+    - cron: '30 13 * * 4'   # Thursdays ~7:30 AM Central
   workflow_dispatch:
 permissions:
   contents: write
