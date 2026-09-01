@@ -796,14 +796,28 @@ renderTurnout('7');
       savg:savg,fastest:fastest,trend:trendSeries(dated)};}
   function buildRoster(text){var r={};if(text)toObjects(parseCSV(text)).forEach(function(o){
     var last=(o['LAST NAME']||'').trim().toUpperCase(),first=(o['FIRST NAME']||'').trim().toUpperCase();
-    var stn=(o['FIRE STATION']||'').replace(/\D/g,'');if(last&&first&&STN.indexOf(stn)>=0)r[last+'|'+first]=stn;});return r;}
+    var stn=(o['FIRE STATION']||'').replace(/\D/g,'');
+    // shift rides under a '#'-prefixed key so every existing station lookup
+    // (incl. hydCredit's direct reads) keeps working unchanged
+    var sh=String(o['SHIFT']||'').trim().toUpperCase().charAt(0);
+    if(last&&first&&STN.indexOf(stn)>=0){r[last+'|'+first]=stn;
+      if(sh==='A'||sh==='B'||sh==='C')r['#'+last+'|'+first]=sh;}});return r;}
   function stationOf(name,roster){name=(name||'').trim();if(name.indexOf(',')<0)return null;
     var parts=name.split(','),last=parts[0].trim().toUpperCase(),first=parts.slice(1).join(',').trim().toUpperCase();
     var ft=first.split(/\s+/)[0]||'';return roster[last+'|'+first]||roster[last+'|'+ft]||null;}
+  function shiftOfMember(name,roster){name=(name||'').trim();if(name.indexOf(',')<0)return null;
+    var parts=name.split(','),last=parts[0].trim().toUpperCase(),first=parts.slice(1).join(',').trim().toUpperCase();
+    var ft=first.split(/\s+/)[0]||'';return roster['#'+last+'|'+first]||roster['#'+last+'|'+ft]||null;}
   function computeTraining(text,roster,cal){var grid={};STN.forEach(function(st){grid[st]={A:0,B:0,C:0};});var total=0,dropped=0;
     if(text)toObjects(parseCSV(text)).forEach(function(o){var hrs=parseFloat(o['Training Completed Hours']||0)||0;if(hrs<=0)return;
       var st=stationOf(o['Attendee Name'],roster);if(STN.indexOf(st)<0){dropped+=hrs;return;}
-      var ts=parseTS(o['Created At']);if(!ts)return;grid[st][shiftFor(shiftDayMs(ts.ms),cal)]+=hrs;total+=hrs;});
+      var ts=parseTS(o['Created At']);if(!ts)return;
+      // credit hours to the MEMBER'S shift from the roster — bucketing by the
+      // duty shift of the log date piles bulk/make-up logging onto whichever
+      // shift happened to be on duty that day; log-date duty shift is only
+      // the fallback for a name the roster cannot place on a shift
+      var sh=shiftOfMember(o['Attendee Name'],roster)||shiftFor(shiftDayMs(ts.ms),cal);
+      grid[st][sh]+=hrs;total+=hrs;});
     STN.forEach(function(st){SH.forEach(function(s){grid[st][s]=Math.round(grid[st][s]*10)/10;});});
     return{grid:grid,total:Math.round(total*10)/10,dropped:Math.round(dropped*10)/10};}
   function b64ToUtf8(b64){var bin=atob(b64),by=new Uint8Array(bin.length);for(var i=0;i<bin.length;i++)by[i]=bin.charCodeAt(i);return new TextDecoder('utf-8').decode(by);}
