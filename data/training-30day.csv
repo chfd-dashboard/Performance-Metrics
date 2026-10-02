@@ -1,207 +1,603 @@
 "Attendee Name","Created At","Course Names","Scheduled Training Id","Training Completed Hours"
-"ALLEN, DILLON","2026-09-30 07:14:27","CRR - Area Familiarization, Physical Fitness",4521194,4.00
+"ALLEN, DILLON","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"ALLEN, DILLON","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"ALLEN, DILLON","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"ALLEN, DILLON","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"ALLEN, DILLON","2026-10-01 06:33:05","ATP - September - Shift Credit Hours",4526213,0
 "ALLEN, DILLON","2026-09-25 16:23:20",,4228275,0
-"ALLEN, DILLON","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"ALLEN, DILLON","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"ALLEN, DILLON","2026-09-30 07:14:27","CRR - Area Familiarization, Physical Fitness",4521194,4.00
+"ATTKISSON, BENJAMIN","2026-10-01 06:33:05","ATP - September - Shift Credit Hours",4526214,0
+"ATTKISSON, BENJAMIN","2026-10-01 07:01:56","ATP - September - Operational Readiness Exercise",4526271,4.00
+"ATTKISSON, BENJAMIN","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
 "ATTKISSON, BENJAMIN","2026-09-24 07:55:38","Area Familiarization, Checks that all tools, appliances and equipment are securely mounted, Inspect SCBA., Physical Fitness",4223717,4.00
-"ATTKISSON, BENJAMIN","2026-09-25 12:54:21","Forces entry through doors, windows, or walls",4227671,2.00
-"ATTKISSON, BENJAMIN","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"ATTKISSON, BENJAMIN","2026-10-01 06:55:36","ATP - September - Safety and Traffic Incident Management",4526260,1.00
+"ATTKISSON, BENJAMIN","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"ATTKISSON, BENJAMIN","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"ATTKISSON, BENJAMIN","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"ATTKISSON, BENJAMIN","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
 "ATTKISSON, BENJAMIN","2026-09-25 12:57:34","Lift/carry the ladder from the designated area or apparatus., Position ladder correctly for task given",4227678,2.00
-"BAILEY, BLAKE","2026-09-04 08:31:45","CRR - Area Familiarization, Physical Fitness",4027235,4.00
-"BAILEY, BLAKE","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"ATTKISSON, BENJAMIN","2026-09-25 12:54:21","Forces entry through doors, windows, or walls",4227671,2.00
+"ATTKISSON, BENJAMIN","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"ATTKISSON, BENJAMIN","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"BAILEY, BLAKE","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"BAILEY, BLAKE","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"BAILEY, BLAKE","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
 "BAILEY, BLAKE","2026-09-29 17:01:20","OPS - SPECOPS - Rope Rescue Practical Skills",4418495,2.50
-"BAKER, MATTHEW","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"BAILEY, BLAKE","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"BAILEY, BLAKE","2026-09-04 08:31:45","CRR - Area Familiarization, Physical Fitness",4027235,4.00
+"BAILEY, BLAKE","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"BAKER, MATTHEW","2026-10-01 14:36:29","Describe procedures for firefighters who become trapped or disoriented",4527609,1.00
 "BAKER, MATTHEW","2026-09-25 16:44:23","Hand lays supply line and a makes hydrant-to-pumper connection",4228332,1.00
-"BAKER, MATTHEW","2026-09-25 16:41:33","Charges appropriate hand line(s) or master stream",4228328,2.00
-"BAKER, MATTHEW","2026-09-03 20:23:28","Ascend rope ",4026500,1.00
-"BAKER, MATTHEW","2026-09-01 21:35:31","Deploy and flow pre-connected hose",4011248,2.00
+"BAKER, MATTHEW","2026-10-01 06:33:10","ATP - September - Shift Credit Hours",4526215,0
+"BAKER, MATTHEW","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"BAKER, MATTHEW","2026-10-01 06:55:36","ATP - September - Safety and Traffic Incident Management",4526260,1.00
 "BAKER, MATTHEW","2026-09-13 19:27:57","Lift/carry the ladder from the designated area or apparatus.",4165489,1.00
-"BARTON, CHRISTOPHER","2026-09-17 13:08:32","ATP - October - Live Fire Evolutions",4201841,11.00
-"BARTON, CHRISTOPHER","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"BARTON, CHRISTOPHER","2026-09-17 13:12:13","OPS - SPECOPS - Rope Rescue Practical Skills",4201850,2.50
+"BAKER, MATTHEW","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"BAKER, MATTHEW","2026-09-03 20:23:28","Ascend rope ",4026500,1.00
+"BAKER, MATTHEW","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"BAKER, MATTHEW","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"BAKER, MATTHEW","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"BAKER, MATTHEW","2026-09-25 16:41:33","Charges appropriate hand line(s) or master stream",4228328,2.00
+"BAKER, MATTHEW","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"BARTON, CHRISTOPHER","2026-10-01 07:01:56","ATP - September - Operational Readiness Exercise",4526271,4.00
+"BARTON, CHRISTOPHER","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
 "BARTON, CHRISTOPHER","2026-09-29 17:01:03","OPS - SPECOPS - Rope Rescue Practical Skills",4418495,2.50
-"BASTIAN, JACOB RAY","2026-09-03 12:18:25",,4025110,0.00
+"BARTON, CHRISTOPHER","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"BARTON, CHRISTOPHER","2026-09-17 13:12:13","OPS - SPECOPS - Rope Rescue Practical Skills",4201850,2.50
+"BARTON, CHRISTOPHER","2026-09-17 13:08:32","ATP - October - Live Fire Evolutions",4201841,11.00
+"BARTON, CHRISTOPHER","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"BARTON, CHRISTOPHER","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"BARTON, CHRISTOPHER","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
 "BASTIAN, JACOB RAY","2026-09-03 20:23:28","Ascend rope ",4026500,1.00
-"BASTIAN, JACOB RAY","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"BASTIAN, JACOB RAY","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"BASTIAN, JACOB RAY","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"BASTIAN, JACOB RAY","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"BASTIAN, JACOB RAY","2026-10-01 06:33:04","ATP - September - Shift Credit Hours",4526211,0
+"BASTIAN, JACOB RAY","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"BASTIAN, JACOB RAY","2026-09-03 12:18:25",,4025110,0.00
+"BASTIAN, JACOB RAY","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"BASTIAN, JACOB RAY","2026-10-01 06:33:04","ATP - Company Training",4526208,0
 "BATLA, BRENT G","2026-09-14 17:34:09","Deploy and flow pre-connected hose, FIRE HYDRANT CONNECTION: Connect supply hose to hydrant, Marking a Defective Hose, Roll or Reload Hose",4168628,2.00
-"BELL, JOSHUA","2026-09-01 08:40:21","ATP - August - Swift Water Rescue",3996585,4.00
-"BELL, JOSHUA","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"BELL, NATHANIEL","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"BATLA, BRENT G","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"BELL, JOSHUA","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"BELL, JOSHUA","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"BELL, JOSHUA","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"BELL, JOSHUA","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"BELL, JOSHUA","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"BELL, NATHANIEL","2026-10-01 06:33:04","ATP - September - Shift Credit Hours",4526209,0
+"BELL, NATHANIEL","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"BELL, NATHANIEL","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"BORTH, THOMAS","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"BORTH, THOMAS","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
 "BORTH, THOMAS","2026-09-17 13:12:28","OPS - SPECOPS - Rope Rescue Practical Skills",4201850,2.50
-"BORTH, THOMAS","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"BORTH, THOMAS","2026-09-19 18:59:42","Ascend rope , OPS - SPECOPS - Rope Rescue Practical Skills",4206912,2.00
+"BORTH, THOMAS","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
 "BORTH, THOMAS","2026-09-04 08:31:45","CRR - Area Familiarization, Physical Fitness",4027235,4.00
-"BRANNON, RUSSELL","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"BORTH, THOMAS","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"BORTH, THOMAS","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"BORTH, THOMAS","2026-10-01 06:33:10","ATP - September - Shift Credit Hours",4526215,0
+"BORTH, THOMAS","2026-09-19 18:59:42","Ascend rope , OPS - SPECOPS - Rope Rescue Practical Skills",4206912,2.00
+"BRANNON, RUSSELL","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
 "BRANNON, RUSSELL","2026-09-14 17:34:09","Deploy and flow pre-connected hose, FIRE HYDRANT CONNECTION: Connect supply hose to hydrant, Marking a Defective Hose, Roll or Reload Hose",4168628,2.00
+"BRANNON, RUSSELL","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"BRANNON, RUSSELL","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"BRANNON, RUSSELL","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"BRANNON, RUSSELL","2026-10-01 06:33:04","ATP - September - Shift Credit Hours",4526212,0
+"BRANNON, RUSSELL","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"BRANNON, RUSSELL","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"BULLARD, CHRISTOPHER","2026-10-01 07:01:56","ATP - September - Operational Readiness Exercise",4526271,4.00
+"BULLARD, CHRISTOPHER","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
 "BULLARD, CHRISTOPHER","2026-09-14 17:34:09","Deploy and flow pre-connected hose, FIRE HYDRANT CONNECTION: Connect supply hose to hydrant, Marking a Defective Hose, Roll or Reload Hose",4168628,2.00
+"BULLARD, CHRISTOPHER","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
 "BULLARD, CHRISTOPHER","2026-09-24 07:55:38","Area Familiarization, Checks that all tools, appliances and equipment are securely mounted, Inspect SCBA., Physical Fitness",4223717,4.00
 "BULLARD, CHRISTOPHER","2026-09-14 13:26:17","Choose the appropriate technique and demonstrate or simulate forced entry (Door), Conduct a search and rescue in a structure operating as a member of a team, Deploy and flow pre-connected hose, FORCED VENTILATION (POSTIVE PRESSURE) Ventilation properly performed and structure cleared of smoke, Fire Streams, Hose and Water Supply",4167817,4.00
-"BULLARD, CHRISTOPHER","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"BURLISON, ROBERT","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"CHAUNCEY, WILLIAM","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"BURLISON, ROBERT","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"BURLISON, ROBERT","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"BURLISON, ROBERT","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"BURLISON, ROBERT","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"BURLISON, ROBERT","2026-10-01 06:33:10","ATP - September - Shift Credit Hours",4526215,0
+"BURLISON, ROBERT","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"CHAUNCEY, WILLIAM","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
 "CHAUNCEY, WILLIAM","2026-09-25 12:57:34","Lift/carry the ladder from the designated area or apparatus., Position ladder correctly for task given",4227678,2.00
+"CHAUNCEY, WILLIAM","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"CHAUNCEY, WILLIAM","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"CHAUNCEY, WILLIAM","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"CHAUNCEY, WILLIAM","2026-10-01 06:33:05","ATP - September - Shift Credit Hours",4526214,0
+"CHAUNCEY, WILLIAM","2026-10-01 06:55:36","ATP - September - Safety and Traffic Incident Management",4526260,1.00
+"CHAUNCEY, WILLIAM","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"CHAUNCEY, WILLIAM","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
 "CHAUNCEY, WILLIAM","2026-09-25 12:54:21","Forces entry through doors, windows, or walls",4227671,2.00
+"CHAUNCEY, WILLIAM","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
 "CHAUNCEY, WILLIAM","2026-09-24 07:54:38","Area Familiarization, Checks that all tools, appliances and equipment are securely mounted, Inspect SCBA., Physical Fitness",4223717,4.00
-"CHAVEZ, RICARDO","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"CHAVEZ, RICARDO","2026-09-25 16:23:20",,4228275,0
+"CHAVEZ, RICARDO","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"CHAVEZ, RICARDO","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"CHAVEZ, RICARDO","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
 "CHAVEZ, RICARDO","2026-09-30 07:14:27","CRR - Area Familiarization, Physical Fitness",4521194,4.00
-"CUNHA, PATRICK","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"CHAVEZ, RICARDO","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"CHAVEZ, RICARDO","2026-09-25 16:23:20",,4228275,0
+"CHAVEZ, RICARDO","2026-10-01 06:33:04","ATP - September - Shift Credit Hours",4526212,0
+"CHAVEZ, RICARDO","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"CUNHA, PATRICK","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"CUNHA, PATRICK","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"CUNHA, PATRICK","2026-10-01 06:33:05","ATP - September - Shift Credit Hours",4526213,0
+"CUNHA, PATRICK","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"CUNHA, PATRICK","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"CUNHA, PATRICK","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"DAVIS, ETHAN","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"DAVIS, ETHAN","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
 "DAVIS, ETHAN","2026-09-03 12:18:25",,4025110,0.00
 "DAVIS, ETHAN","2026-09-03 20:23:28","Ascend rope ",4026500,1.00
-"DAVIS, ETHAN","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"DAVIS, JASON","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"DAVIS, ETHAN","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"DAVIS, ETHAN","2026-10-01 07:01:56","ATP - September - Operational Readiness Exercise",4526271,4.00
+"DAVIS, ETHAN","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"DAVIS, ETHAN","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"DAVIS, ETHAN","2026-10-01 06:33:11","ATP - September - Shift Credit Hours",4526216,0
+"DAVIS, JASON","2026-10-01 06:32:39","ATP - Company Training",4526202,0
+"DAVIS, JASON","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"DAVIS, JASON","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"DAVIS, JASON","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"DAVIS, JASON","2026-10-01 06:33:04","ATP - September - Shift Credit Hours",4526212,0
+"DAVIS, JASON","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"DAVIS, JASON","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"DAVIS, JASON","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
 "DENISON, JOHN","2026-09-19 18:59:42","Ascend rope , OPS - SPECOPS - Rope Rescue Practical Skills",4206912,2.00
+"DENISON, JOHN","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"DENISON, JOHN","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"DENISON, JOHN","2026-10-01 06:33:05","ATP - September - Shift Credit Hours",4526213,0
 "DENISON, JOHN","2026-09-24 07:55:38","Area Familiarization, Checks that all tools, appliances and equipment are securely mounted, Inspect SCBA., Physical Fitness",4223717,4.00
-"DENISON, JOHN","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"DIKE, ALLAN","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"DIXON, GRANT","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"DENISON, JOHN","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"DENISON, JOHN","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"DENISON, JOHN","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"DENISON, JOHN","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"DIKE, ALLAN","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"DIKE, ALLAN","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"DIKE, ALLAN","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"DIKE, ALLAN","2026-10-01 07:01:56","ATP - September - Operational Readiness Exercise",4526271,4.00
+"DIKE, ALLAN","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"DIKE, ALLAN","2026-10-01 06:33:04","ATP - September - Shift Credit Hours",4526210,0
+"DIKE, ALLAN","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"DIXON, GRANT","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"DIXON, GRANT","2026-10-01 07:01:56","ATP - September - Operational Readiness Exercise",4526271,4.00
+"DIXON, GRANT","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
 "DIXON, GRANT","2026-09-29 17:01:03","OPS - SPECOPS - Rope Rescue Practical Skills",4418495,2.50
-"DRIGGARS, KEVIN","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"EBANKS, KAMREN","2026-09-01 08:47:00","Company Roundtable",3996622,1.00
+"DIXON, GRANT","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"DIXON, GRANT","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"DIXON, GRANT","2026-10-01 06:33:04","ATP - September - Shift Credit Hours",4526212,0
+"DIXON, GRANT","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"DRIGGARS, KEVIN","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"DRIGGARS, KEVIN","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"DRIGGARS, KEVIN","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"DRIGGARS, KEVIN","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"DRIGGARS, KEVIN","2026-10-01 06:55:36","ATP - September - Safety and Traffic Incident Management",4526260,1.00
+"DRIGGARS, KEVIN","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"DRIGGARS, KEVIN","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"DRIGGARS, KEVIN","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"DRIGGARS, KEVIN","2026-10-01 06:33:04","ATP - September - Shift Credit Hours",4526212,0
 "EBANKS, KAMREN","2026-09-25 16:44:23","Hand lays supply line and a makes hydrant-to-pumper connection",4228332,1.00
+"EBANKS, KAMREN","2026-10-01 06:33:05","ATP - September - Shift Credit Hours",4526213,0
+"EBANKS, KAMREN","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"EBANKS, KAMREN","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"EBANKS, KAMREN","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"EBANKS, KAMREN","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
 "EBANKS, KAMREN","2026-09-25 16:41:33","Charges appropriate hand line(s) or master stream",4228328,2.00
-"EBANKS, KAMREN","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"EICHELBERGER, JACK","2026-09-25 12:54:21","Forces entry through doors, windows, or walls",4227671,2.00
-"EICHELBERGER, JACK","2026-09-19 18:59:42","Ascend rope , OPS - SPECOPS - Rope Rescue Practical Skills",4206912,2.00
-"EICHELBERGER, JACK","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"EICHELBERGER, JACK","2026-09-25 12:57:34","Lift/carry the ladder from the designated area or apparatus., Position ladder correctly for task given",4227678,2.00
-"EICHELBERGER, JACK","2026-09-01 21:35:31","Deploy and flow pre-connected hose",4011248,2.00
+"EICHELBERGER, JACK","2026-10-01 06:33:04","ATP - September - Shift Credit Hours",4526212,0
 "EICHELBERGER, JACK","2026-09-24 07:55:38","Area Familiarization, Checks that all tools, appliances and equipment are securely mounted, Inspect SCBA., Physical Fitness",4223717,4.00
-"FUSSELL, DYLAN","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"EICHELBERGER, JACK","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"EICHELBERGER, JACK","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"EICHELBERGER, JACK","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"EICHELBERGER, JACK","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"EICHELBERGER, JACK","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"EICHELBERGER, JACK","2026-09-19 18:59:42","Ascend rope , OPS - SPECOPS - Rope Rescue Practical Skills",4206912,2.00
+"EICHELBERGER, JACK","2026-09-25 12:54:21","Forces entry through doors, windows, or walls",4227671,2.00
+"EICHELBERGER, JACK","2026-09-25 12:57:34","Lift/carry the ladder from the designated area or apparatus., Position ladder correctly for task given",4227678,2.00
+"FUSSELL, DYLAN","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
 "FUSSELL, DYLAN","2026-09-17 13:08:42","ATP - October - Live Fire Evolutions",4201841,11.00
-"GLAAB, JEREMY","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"FUSSELL, DYLAN","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"FUSSELL, DYLAN","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"FUSSELL, DYLAN","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"FUSSELL, DYLAN","2026-10-01 06:33:04","ATP - September - Shift Credit Hours",4526211,0
+"GLAAB, JEREMY","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"GLAAB, JEREMY","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"GLAAB, JEREMY","2026-10-01 06:33:11","ATP - September - Shift Credit Hours",4526218,0
+"GLAAB, JEREMY","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"GLAAB, JEREMY","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"GLAAB, JEREMY","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
 "GLAAB, JEREMY","2026-09-30 07:14:27","CRR - Area Familiarization, Physical Fitness",4521194,4.00
-"GLASS, ROBERT","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"GRANADOS, JACOB","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"GREENBERG, CURTIS","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"GREENBERG, CURTIS","2026-09-17 13:12:28","OPS - SPECOPS - Rope Rescue Practical Skills",4201850,2.50
+"GLASS, ROBERT","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"GLASS, ROBERT","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"GLASS, ROBERT","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"GLASS, ROBERT","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"GLASS, ROBERT","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"GLASS, ROBERT","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"GLASS, ROBERT","2026-10-01 06:55:36","ATP - September - Safety and Traffic Incident Management",4526260,1.00
+"GLASS, ROBERT","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"GRANADOS, JACOB","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"GRANADOS, JACOB","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"GRANADOS, JACOB","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"GRANADOS, JACOB","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"GRANADOS, JACOB","2026-10-01 06:33:05","ATP - September - Shift Credit Hours",4526213,0
+"GREENBERG, CURTIS","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
 "GREENBERG, CURTIS","2026-09-04 08:31:45","CRR - Area Familiarization, Physical Fitness",4027235,4.00
+"GREENBERG, CURTIS","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"GREENBERG, CURTIS","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"GREENBERG, CURTIS","2026-10-01 06:55:36","ATP - September - Safety and Traffic Incident Management",4526260,1.00
+"GREENBERG, CURTIS","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"GREENBERG, CURTIS","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"GREENBERG, CURTIS","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"GREENBERG, CURTIS","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
 "GREENBERG, CURTIS","2026-09-03 20:23:28","Ascend rope ",4026500,1.00
-"GRIFFIN, CARY","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"GREENBERG, CURTIS","2026-10-01 06:33:11","ATP - September - Shift Credit Hours",4526216,0
+"GREENBERG, CURTIS","2026-09-17 13:12:28","OPS - SPECOPS - Rope Rescue Practical Skills",4201850,2.50
+"GRIFFIN, CARY","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
 "GRIFFIN, CARY","2026-09-25 16:23:20",,4228275,0
-"HARRELL, BRYAN","2026-09-17 13:12:13","OPS - SPECOPS - Rope Rescue Practical Skills",4201850,2.50
-"HARRELL, BRYAN","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"HARRELL, BRYAN","2026-09-17 13:08:32","ATP - October - Live Fire Evolutions",4201841,11.00
+"GRIFFIN, CARY","2026-10-01 06:33:04","ATP - September - Shift Credit Hours",4526211,0
+"GRIFFIN, CARY","2026-10-01 06:55:36","ATP - September - Safety and Traffic Incident Management",4526260,1.00
+"GRIFFIN, CARY","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"GRIFFIN, CARY","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"GRIFFIN, CARY","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"GRIFFIN, CARY","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"GRIFFIN, CARY","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"GRIFFIN, CARY","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"HARRELL, BRYAN","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
 "HARRELL, BRYAN","2026-09-29 17:01:03","OPS - SPECOPS - Rope Rescue Practical Skills",4418495,2.50
-"HERBERT, DILLON","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"HOLCOMB, CHRIS","2026-09-17 13:41:21","ATP - September - Multi-Company Drills",4201908,8.00
+"HARRELL, BRYAN","2026-10-01 06:33:05","ATP - September - Shift Credit Hours",4526213,0
+"HARRELL, BRYAN","2026-09-17 13:12:13","OPS - SPECOPS - Rope Rescue Practical Skills",4201850,2.50
+"HARRELL, BRYAN","2026-09-17 13:08:32","ATP - October - Live Fire Evolutions",4201841,11.00
+"HARRELL, BRYAN","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"HARRELL, BRYAN","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"HARRELL, BRYAN","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"HARRISON, MICHAEL","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"HARRISON, MICHAEL","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"HERBERT, DILLON","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"HERBERT, DILLON","2026-10-01 06:33:05","ATP - September - Shift Credit Hours",4526213,0
+"HERBERT, DILLON","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"HERBERT, DILLON","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"HERBERT, DILLON","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"HERBERT, DILLON","2026-10-01 06:55:36","ATP - September - Safety and Traffic Incident Management",4526260,1.00
+"HERBERT, DILLON","2026-10-01 07:01:56","ATP - September - Operational Readiness Exercise",4526271,4.00
+"HERBERT, DILLON","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"HERBERT, DILLON","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"HERBERT, DILLON","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
 "HOLCOMB, CHRIS","2026-09-14 17:34:09","Deploy and flow pre-connected hose, FIRE HYDRANT CONNECTION: Connect supply hose to hydrant, Marking a Defective Hose, Roll or Reload Hose",4168628,2.00
-"JOHNSON, CADE","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"HOLCOMB, CHRIS","2026-09-17 13:41:21","ATP - September - Multi-Company Drills",4201908,8.00
+"JOHNSON, CADE","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"JOHNSON, CADE","2026-10-01 06:33:05","ATP - September - Shift Credit Hours",4526214,0
+"JOHNSON, CADE","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"JOHNSON, CADE","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"JOHNSON, CADE","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
 "LANDERS, CORY","2026-09-17 13:12:13","OPS - SPECOPS - Rope Rescue Practical Skills",4201850,2.50
-"LANDERS, CORY","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"LANDERS, CORY","2026-09-17 13:08:32","ATP - October - Live Fire Evolutions",4201841,11.00
+"LANDERS, CORY","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"LANDERS, CORY","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"LANDERS, CORY","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"LANDERS, CORY","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"LANDERS, CORY","2026-10-01 06:33:04","ATP - September - Shift Credit Hours",4526212,0
 "LANDERS, CORY","2026-09-29 17:01:03","OPS - SPECOPS - Rope Rescue Practical Skills",4418495,2.50
+"LANDERS, CORY","2026-10-01 07:01:56","ATP - September - Operational Readiness Exercise",4526271,4.00
+"LANDERS, CORY","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"LANDERS, CORY","2026-09-17 13:08:32","ATP - October - Live Fire Evolutions",4201841,11.00
+"LANDERS, CORY","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"LAYMON, GRANT","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"LAYMON, GRANT","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"LAYMON, GRANT","2026-10-01 06:33:04","ATP - September - Shift Credit Hours",4526209,0
+"LOPEZ, MICHAEL","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"LOPEZ, MICHAEL","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"LOPEZ, MICHAEL","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
 "LOPEZ, MICHAEL","2026-09-14 17:34:09","Deploy and flow pre-connected hose, FIRE HYDRANT CONNECTION: Connect supply hose to hydrant, Marking a Defective Hose, Roll or Reload Hose",4168628,2.00
-"LOPEZ, MICHAEL","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"LOPEZ, MICHAEL","2026-10-01 06:33:04","ATP - Company Training",4526208,0
 "LOPEZ, MICHAEL","2026-09-14 13:26:17","Choose the appropriate technique and demonstrate or simulate forced entry (Door), Conduct a search and rescue in a structure operating as a member of a team, Deploy and flow pre-connected hose, FORCED VENTILATION (POSTIVE PRESSURE) Ventilation properly performed and structure cleared of smoke, Fire Streams, Hose and Water Supply",4167817,4.00
-"MADRID, MARK","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"MCMAHON, MICHAEL","2026-09-19 18:59:42","Ascend rope , OPS - SPECOPS - Rope Rescue Practical Skills",4206912,2.00
-"MCMAHON, MICHAEL","2026-09-25 12:54:21","Forces entry through doors, windows, or walls",4227671,2.00
+"LOPEZ, MICHAEL","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"LOPEZ, MICHAEL","2026-10-01 06:55:36","ATP - September - Safety and Traffic Incident Management",4526260,1.00
+"LOPEZ, MICHAEL","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"LOPEZ, MICHAEL","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"LOPEZ, MICHAEL","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"MADRID, MARK","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"MADRID, MARK","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"MADRID, MARK","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
 "MCMAHON, MICHAEL","2026-09-25 12:57:34","Lift/carry the ladder from the designated area or apparatus., Position ladder correctly for task given",4227678,2.00
 "MCMAHON, MICHAEL","2026-09-24 07:55:38","Area Familiarization, Checks that all tools, appliances and equipment are securely mounted, Inspect SCBA., Physical Fitness",4223717,4.00
-"MCMAHON, MICHAEL","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"MCMAHON, MICHAEL","2026-09-19 18:59:42","Ascend rope , OPS - SPECOPS - Rope Rescue Practical Skills",4206912,2.00
+"MCMAHON, MICHAEL","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"MCMAHON, MICHAEL","2026-10-01 06:33:04","ATP - September - Shift Credit Hours",4526212,0
+"MCMAHON, MICHAEL","2026-09-25 12:54:21","Forces entry through doors, windows, or walls",4227671,2.00
+"MCMAHON, MICHAEL","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"MCMAHON, MICHAEL","2026-10-01 07:01:56","ATP - September - Operational Readiness Exercise",4526271,4.00
+"MCMAHON, MICHAEL","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"MCMAHON, MICHAEL","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"MCMAHON, MICHAEL","2026-10-01 14:38:25","Describe procedures for firefighters who become trapped or disoriented",4527609,1.00
+"MCMAHON, MICHAEL","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"MCMAHON, MICHAEL","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"MOREE, ROBERT","2026-09-18 12:19:06","Identify factors that increase fire risk in buildings being constructed, renovated, or demolished",4204326,4.00
+"MOREE, ROBERT","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"MOREE, ROBERT","2026-10-01 13:51:42","Identify recommended personal protective equipment from the following: Street Clothing or work uniforms,Structural Firefighting protective clothing, Positive Pressure self-contained breathing apparatus,Chemical protective clothing and equipment",4527399,4.00
+"MOREE, ROBERT","2026-09-18 12:12:24","Develop stress management techniques for paramedic professionals.",4204318,4.00
+"MOREE, ROBERT","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"MOREE, ROBERT","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"MOREE, ROBERT","2026-10-01 06:33:04","ATP - September - Shift Credit Hours",4526212,0
+"MOREE, ROBERT","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"MOREE, ROBERT","2026-10-01 13:30:37","ATP - October - Live Fire Evolutions",4527301,4.50
+"MOREE, ROBERT","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
 "MOREE, ROBERT","2026-09-24 17:52:20","Building Construction ",4225727,4.00
 "MOREE, ROBERT","2026-09-18 12:16:19","Company Roundtable",4204323,4.00
-"MOREE, ROBERT","2026-09-18 12:12:24","Develop stress management techniques for paramedic professionals.",4204318,4.00
-"MOREE, ROBERT","2026-09-18 12:19:06","Identify factors that increase fire risk in buildings being constructed, renovated, or demolished",4204326,4.00
-"MOREE, ROBERT","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"MOSS, SCOTT","2026-09-03 12:18:25",,4025110,0.00
-"MOSS, SCOTT","2026-09-01 08:40:21","ATP - August - Swift Water Rescue",3996585,4.00
-"MOSS, SCOTT","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"MOSS, SCOTT","2026-09-03 20:23:28","Ascend rope ",4026500,1.00
+"MOSS, SCOTT","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"MOSS, SCOTT","2026-10-01 07:01:56","ATP - September - Operational Readiness Exercise",4526271,4.00
 "MOSS, SCOTT","2026-09-14 17:34:09","Deploy and flow pre-connected hose, FIRE HYDRANT CONNECTION: Connect supply hose to hydrant, Marking a Defective Hose, Roll or Reload Hose",4168628,2.00
-"MURRAY, SHAROD","2026-09-29 17:01:20","OPS - SPECOPS - Rope Rescue Practical Skills",4418495,2.50
+"MOSS, SCOTT","2026-09-03 12:18:25",,4025110,0.00
+"MOSS, SCOTT","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"MOSS, SCOTT","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"MOSS, SCOTT","2026-09-03 20:23:28","Ascend rope ",4026500,1.00
+"MOSS, SCOTT","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"MOSS, SCOTT","2026-10-01 06:33:10","ATP - September - Shift Credit Hours",4526215,0
+"MOSS, SCOTT","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"MOSS, SCOTT","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"MURRAY, SHAROD","2026-10-01 06:55:36","ATP - September - Safety and Traffic Incident Management",4526260,1.00
+"MURRAY, SHAROD","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"MURRAY, SHAROD","2026-10-01 06:33:11","ATP - September - Shift Credit Hours",4526216,0
+"MURRAY, SHAROD","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"MURRAY, SHAROD","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
 "MURRAY, SHAROD","2026-09-30 07:14:27","CRR - Area Familiarization, Physical Fitness",4521194,4.00
-"MURRAY, SHAROD","2026-09-06 07:45:46","Area Familiarization, Inspect SCBA., Performs a visual and operational check on the foam system (if applicable), Physical Fitness",4031111,4.00
+"MURRAY, SHAROD","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"MURRAY, SHAROD","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"MURRAY, SHAROD","2026-10-01 07:01:56","ATP - September - Operational Readiness Exercise",4526271,4.00
+"MURRAY, SHAROD","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
 "MURRAY, SHAROD","2026-09-17 13:12:28","OPS - SPECOPS - Rope Rescue Practical Skills",4201850,2.50
-"MURRAY, SHAROD","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"MURRAY, SHAROD","2026-09-06 07:45:46","Area Familiarization, Inspect SCBA., Performs a visual and operational check on the foam system (if applicable), Physical Fitness",4031111,4.00
+"MURRAY, SHAROD","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
 "MURRAY, SHAROD","2026-09-04 08:31:45","CRR - Area Familiarization, Physical Fitness",4027235,4.00
+"MURRAY, SHAROD","2026-09-29 17:01:20","OPS - SPECOPS - Rope Rescue Practical Skills",4418495,2.50
+"O'NEILL, JASON","2026-10-01 07:01:56","ATP - September - Operational Readiness Exercise",4526271,4.00
+"O'NEILL, JASON","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
 "O'NEILL, JASON","2026-09-14 17:34:09","Deploy and flow pre-connected hose, FIRE HYDRANT CONNECTION: Connect supply hose to hydrant, Marking a Defective Hose, Roll or Reload Hose",4168628,2.00
-"OSTER, CHARLES","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"PACK, JAXON","2026-09-25 12:54:21","Forces entry through doors, windows, or walls",4227671,2.00
+"OSTER, CHARLES","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"OSTER, CHARLES","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"OSTER, CHARLES","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"OSTER, CHARLES","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"OSTER, CHARLES","2026-10-01 06:33:04","ATP - September - Shift Credit Hours",4526212,0
+"OSTER, CHARLES","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"OSTER, CHARLES","2026-10-01 06:55:36","ATP - September - Safety and Traffic Incident Management",4526260,1.00
+"OYEWUSI, SAMUEL","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"OYEWUSI, SAMUEL","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
 "PACK, JAXON","2026-09-25 12:57:34","Lift/carry the ladder from the designated area or apparatus., Position ladder correctly for task given",4227678,2.00
-"PEREZ, ABEL","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"PEREZ, AGUSTIN","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"PACK, JAXON","2026-09-25 12:54:21","Forces entry through doors, windows, or walls",4227671,2.00
+"PACK, JAXON","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"PACK, JAXON","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"PEREZ, ABEL","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"PEREZ, ABEL","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"PEREZ, ABEL","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"PEREZ, ABEL","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"PEREZ, ABEL","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"PEREZ, ABEL","2026-10-01 06:33:11","ATP - September - Shift Credit Hours",4526216,0
+"PEREZ, AGUSTIN","2026-10-01 06:33:05","ATP - September - Shift Credit Hours",4526213,0
 "PEREZ, AGUSTIN","2026-09-04 08:31:45","CRR - Area Familiarization, Physical Fitness",4027235,4.00
+"PEREZ, AGUSTIN","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"PEREZ, AGUSTIN","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
 "PEREZ, AGUSTIN","2026-09-17 13:12:28","OPS - SPECOPS - Rope Rescue Practical Skills",4201850,2.50
-"PEREZ, THOMAS","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"PRIEST, SOPHIA","2026-09-25 16:41:33","Charges appropriate hand line(s) or master stream",4228328,2.00
-"PRIEST, SOPHIA","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"PEREZ, AGUSTIN","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"PEREZ, AGUSTIN","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"PEREZ, AGUSTIN","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"PEREZ, THOMAS","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"PEREZ, THOMAS","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"PEREZ, THOMAS","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"PEREZ, THOMAS","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"PEREZ, THOMAS","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
 "PRIEST, SOPHIA","2026-09-25 16:44:23","Hand lays supply line and a makes hydrant-to-pumper connection",4228332,1.00
+"PRIEST, SOPHIA","2026-10-01 06:33:04","ATP - September - Shift Credit Hours",4526212,0
+"PRIEST, SOPHIA","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"PRIEST, SOPHIA","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
 "PRIEST, SOPHIA","2026-09-13 19:27:57","Lift/carry the ladder from the designated area or apparatus.",4165489,1.00
-"RICHARDSON, CHAD","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"PRIEST, SOPHIA","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"PRIEST, SOPHIA","2026-10-01 14:36:29","Describe procedures for firefighters who become trapped or disoriented",4527609,1.00
+"PRIEST, SOPHIA","2026-09-25 16:41:33","Charges appropriate hand line(s) or master stream",4228328,2.00
+"PRIEST, SOPHIA","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"RICHARDSON, CHAD","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"RICHARDSON, CHAD","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
 "RICHARDSON, CHAD","2026-09-17 13:08:32","ATP - October - Live Fire Evolutions",4201841,11.00
-"RIDDLE, TRAVIS THACHER","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"SHEELEY, MICHAEL","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"SMITH, JUSTIN","2026-09-01 08:40:21","ATP - August - Swift Water Rescue",3996585,4.00
+"RICHARDSON, CHAD","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"RICHARDSON, CHAD","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"RICHARDSON, CHAD","2026-10-01 06:33:05","ATP - September - Shift Credit Hours",4526213,0
+"RICHARDSON, CHAD","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"RICHARDSON, CHAD","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"RICHARDSON, CHAD","2026-10-01 07:01:56","ATP - September - Operational Readiness Exercise",4526271,4.00
+"RIDDLE, TRAVIS THACHER","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"RIDDLE, TRAVIS THACHER","2026-10-01 06:33:04","ATP - September - Shift Credit Hours",4526209,0
+"SHEELEY, MICHAEL","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"SMITH, JUSTIN","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"SMITH, JUSTIN","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
 "SMITH, JUSTIN","2026-09-03 12:18:25",,4025110,0.00
-"SMITH, JUSTIN","2026-09-03 20:23:28","Ascend rope ",4026500,1.00
-"SMITH, JUSTIN","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
 "SMITH, JUSTIN","2026-09-14 17:34:09","Deploy and flow pre-connected hose, FIRE HYDRANT CONNECTION: Connect supply hose to hydrant, Marking a Defective Hose, Roll or Reload Hose",4168628,2.00
-"SOUTHARD, HUNTER","2026-09-14 17:34:09","Deploy and flow pre-connected hose, FIRE HYDRANT CONNECTION: Connect supply hose to hydrant, Marking a Defective Hose, Roll or Reload Hose",4168628,2.00
+"SMITH, JUSTIN","2026-10-01 06:55:36","ATP - September - Safety and Traffic Incident Management",4526260,1.00
+"SMITH, JUSTIN","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"SMITH, JUSTIN","2026-10-01 07:01:56","ATP - September - Operational Readiness Exercise",4526271,4.00
+"SMITH, JUSTIN","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"SMITH, JUSTIN","2026-09-03 20:23:28","Ascend rope ",4026500,1.00
+"SMITH, JUSTIN","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"SMITH, JUSTIN","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"SMITH, JUSTIN","2026-10-01 06:33:10","ATP - September - Shift Credit Hours",4526215,0
+"SMITH, JUSTIN","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"SOUTHARD, HUNTER","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"SOUTHARD, HUNTER","2026-10-01 06:55:36","ATP - September - Safety and Traffic Incident Management",4526260,1.00
+"SOUTHARD, HUNTER","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
 "SOUTHARD, HUNTER","2026-09-14 13:26:17","Choose the appropriate technique and demonstrate or simulate forced entry (Door), Conduct a search and rescue in a structure operating as a member of a team, Deploy and flow pre-connected hose, FORCED VENTILATION (POSTIVE PRESSURE) Ventilation properly performed and structure cleared of smoke, Fire Streams, Hose and Water Supply",4167817,4.00
-"SOUTHARD, HUNTER","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"SOUTHARD, HUNTER","2026-10-01 06:33:04","ATP - Company Training",4526208,0
+"SOUTHARD, HUNTER","2026-10-01 06:33:11","ATP - September - Shift Credit Hours",4526216,0
+"SOUTHARD, HUNTER","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
 "SOUTHARD, HUNTER","2026-09-13 19:27:57","Lift/carry the ladder from the designated area or apparatus.",4165489,1.00
-"SPATARO, JACOB","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"SPENCER, DEZARAI","2026-09-06 07:45:46","Area Familiarization, Inspect SCBA., Performs a visual and operational check on the foam system (if applicable), Physical Fitness",4031111,4.00
+"SOUTHARD, HUNTER","2026-09-14 17:34:09","Deploy and flow pre-connected hose, FIRE HYDRANT CONNECTION: Connect supply hose to hydrant, Marking a Defective Hose, Roll or Reload Hose",4168628,2.00
+"SOUTHARD, HUNTER","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"SOUTHARD, HUNTER","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"SOUTHARD, HUNTER","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"SPATARO, JACOB","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"SPATARO, JACOB","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"SPATARO, JACOB","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"SPATARO, JACOB","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"SPATARO, JACOB","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"SPATARO, JACOB","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"SPATARO, JACOB","2026-10-01 06:33:05","ATP - September - Shift Credit Hours",4526214,0
 "SPENCER, DEZARAI","2026-09-25 16:41:33","Charges appropriate hand line(s) or master stream",4228328,2.00
-"SPENCER, DEZARAI","2026-09-30 07:14:27","CRR - Area Familiarization, Physical Fitness",4521194,4.00
-"SPENCER, DEZARAI","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"SPENCER, DEZARAI","2026-09-01 08:47:00","Company Roundtable",3996622,1.00
+"SPENCER, DEZARAI","2026-09-06 07:45:46","Area Familiarization, Inspect SCBA., Performs a visual and operational check on the foam system (if applicable), Physical Fitness",4031111,4.00
+"SPENCER, DEZARAI","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
 "SPENCER, DEZARAI","2026-09-25 16:44:23","Hand lays supply line and a makes hydrant-to-pumper connection",4228332,1.00
-"TERRY, MICHAEL Houston","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"TERRY, MICHAEL Houston","2026-09-01 08:40:21","ATP - August - Swift Water Rescue",3996585,4.00
+"SPENCER, DEZARAI","2026-10-01 06:33:10","ATP - September - Shift Credit Hours",4526215,0
+"SPENCER, DEZARAI","2026-09-30 07:14:27","CRR - Area Familiarization, Physical Fitness",4521194,4.00
+"SPENCER, DEZARAI","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"SPENCER, DEZARAI","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"SPENCER, DEZARAI","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
 "TERRY, MICHAEL Houston","2026-09-14 17:34:09","Deploy and flow pre-connected hose, FIRE HYDRANT CONNECTION: Connect supply hose to hydrant, Marking a Defective Hose, Roll or Reload Hose",4168628,2.00
-"THOMAS, PATRICK","2026-09-01 08:40:21","ATP - August - Swift Water Rescue",3996585,4.00
-"THOMAS, PATRICK","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"TERRY, MICHAEL Houston","2026-10-01 06:33:04","ATP - September - Shift Credit Hours",4526211,0
+"TERRY, MICHAEL Houston","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"TERRY, MICHAEL Houston","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"TERRY, MICHAEL Houston","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"TERRY, MICHAEL Houston","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"TERRY, MICHAEL Houston","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
 "THOMAS, PATRICK","2026-09-17 13:13:17","OPS - SPECOPS - Rope Rescue Practical Skills",4201850,2.50
-"THOMPSON, BLAKE","2026-09-25 12:54:21","Forces entry through doors, windows, or walls",4227671,2.00
-"THOMPSON, BLAKE","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"THOMAS, PATRICK","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"THOMAS, PATRICK","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"THOMAS, PATRICK","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"THOMAS, PATRICK","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"THOMAS, PATRICK","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"THOMAS, PATRICK","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"THOMAS, PATRICK","2026-10-01 07:01:56","ATP - September - Operational Readiness Exercise",4526271,4.00
+"THOMAS, PATRICK","2026-10-01 06:33:05","ATP - September - Shift Credit Hours",4526214,0
+"THOMPSON, BLAKE","2026-10-01 06:33:05","ATP - September - Shift Credit Hours",4526214,0
 "THOMPSON, BLAKE","2026-09-19 18:59:42","Ascend rope , OPS - SPECOPS - Rope Rescue Practical Skills",4206912,2.00
-"THOMPSON, BLAKE","2026-09-24 07:55:38","Area Familiarization, Checks that all tools, appliances and equipment are securely mounted, Inspect SCBA., Physical Fitness",4223717,4.00
+"THOMPSON, BLAKE","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"THOMPSON, BLAKE","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"THOMPSON, BLAKE","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"THOMPSON, BLAKE","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"THOMPSON, BLAKE","2026-09-25 12:54:21","Forces entry through doors, windows, or walls",4227671,2.00
 "THOMPSON, BLAKE","2026-09-25 12:57:34","Lift/carry the ladder from the designated area or apparatus., Position ladder correctly for task given",4227678,2.00
+"THOMPSON, BLAKE","2026-09-24 07:55:38","Area Familiarization, Checks that all tools, appliances and equipment are securely mounted, Inspect SCBA., Physical Fitness",4223717,4.00
+"TIGNER, JUSTIN","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
 "TIGNER, JUSTIN","2026-09-03 12:18:25",,4025110,0.00
-"TIGNER, JUSTIN","2026-09-01 21:35:31","Deploy and flow pre-connected hose",4011248,2.00
-"TIGNER, JUSTIN","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"TIGNER, JUSTIN","2026-09-18 12:12:24","Develop stress management techniques for paramedic professionals.",4204318,4.00
-"TIGNER, JUSTIN","2026-09-06 07:45:46","Area Familiarization, Inspect SCBA., Performs a visual and operational check on the foam system (if applicable), Physical Fitness",4031111,4.00
-"TIGNER, JUSTIN","2026-09-24 17:52:20","Building Construction ",4225727,4.00
-"TIGNER, JUSTIN","2026-09-18 12:19:06","Identify factors that increase fire risk in buildings being constructed, renovated, or demolished",4204326,4.00
+"TIGNER, JUSTIN","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"TIGNER, JUSTIN","2026-10-01 06:33:11","ATP - September - Shift Credit Hours",4526216,0
 "TIGNER, JUSTIN","2026-09-18 12:16:19","Company Roundtable",4204323,4.00
-"TURMAN, JEREMIAH","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"VALENCIA-GIFFORD, RYAN","2026-09-19 18:59:42","Ascend rope , OPS - SPECOPS - Rope Rescue Practical Skills",4206912,2.00
-"VALENCIA-GIFFORD, RYAN","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"TIGNER, JUSTIN","2026-09-06 07:45:46","Area Familiarization, Inspect SCBA., Performs a visual and operational check on the foam system (if applicable), Physical Fitness",4031111,4.00
+"TIGNER, JUSTIN","2026-09-18 12:12:24","Develop stress management techniques for paramedic professionals.",4204318,4.00
+"TIGNER, JUSTIN","2026-09-18 12:19:06","Identify factors that increase fire risk in buildings being constructed, renovated, or demolished",4204326,4.00
+"TIGNER, JUSTIN","2026-09-24 17:52:20","Building Construction ",4225727,4.00
+"TIGNER, JUSTIN","2026-10-01 13:30:37","ATP - October - Live Fire Evolutions",4527301,4.50
+"TIGNER, JUSTIN","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"TIGNER, JUSTIN","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"TIGNER, JUSTIN","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"TIGNER, JUSTIN","2026-10-01 13:51:42","Identify recommended personal protective equipment from the following: Street Clothing or work uniforms,Structural Firefighting protective clothing, Positive Pressure self-contained breathing apparatus,Chemical protective clothing and equipment",4527399,4.00
+"TURMAN, JEREMIAH","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"TURMAN, JEREMIAH","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"TURMAN, JEREMIAH","2026-10-01 07:01:56","ATP - September - Operational Readiness Exercise",4526271,4.00
+"TURMAN, JEREMIAH","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"TURMAN, JEREMIAH","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"TURMAN, JEREMIAH","2026-10-01 06:33:10","ATP - September - Shift Credit Hours",4526215,0
 "VALENCIA-GIFFORD, RYAN","2026-09-29 17:01:29","OPS - SPECOPS - Rope Rescue Practical Skills",4418495,2.50
+"VALENCIA-GIFFORD, RYAN","2026-10-01 06:33:05","ATP - September - Shift Credit Hours",4526214,0
+"VALENCIA-GIFFORD, RYAN","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"VALENCIA-GIFFORD, RYAN","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"VALENCIA-GIFFORD, RYAN","2026-10-01 06:55:36","ATP - September - Safety and Traffic Incident Management",4526260,1.00
+"VALENCIA-GIFFORD, RYAN","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"VALENCIA-GIFFORD, RYAN","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"VALENCIA-GIFFORD, RYAN","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"VALENCIA-GIFFORD, RYAN","2026-09-19 18:59:42","Ascend rope , OPS - SPECOPS - Rope Rescue Practical Skills",4206912,2.00
+"VALENCIA-GIFFORD, RYAN","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"VALENCIA-GIFFORD, RYAN","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"VAUGHN, WESLEY","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"VAUGHN, WESLEY","2026-10-01 06:33:04","ATP - September - Shift Credit Hours",4526212,0
+"VAUGHN, WESLEY","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"VAUGHN, WESLEY","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"VAUGHN, WESLEY","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"VAUGHN, WESLEY","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
 "VAUGHN, WESLEY","2026-09-25 16:25:18",,4228288,0.00
-"VAUGHN, WESLEY","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"VAUGHN, WESLEY","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"VAZQUEZ, OSCAR","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"VAZQUEZ, OSCAR","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
 "VAZQUEZ, OSCAR","2026-09-17 13:12:28","OPS - SPECOPS - Rope Rescue Practical Skills",4201850,2.50
-"VAZQUEZ, OSCAR","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"VAZQUEZ, OSCAR","2026-10-01 06:33:10","ATP - September - Shift Credit Hours",4526215,0
 "VAZQUEZ, OSCAR","2026-09-29 17:01:20","OPS - SPECOPS - Rope Rescue Practical Skills",4418495,2.50
-"WALLEN, BRYAN","2026-09-24 17:52:20","Building Construction ",4225727,4.00
-"WALLEN, BRYAN","2026-09-18 12:12:24","Develop stress management techniques for paramedic professionals.",4204318,4.00
+"VAZQUEZ, OSCAR","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"VAZQUEZ, OSCAR","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"VAZQUEZ, OSCAR","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"VAZQUEZ, OSCAR","2026-10-01 07:01:56","ATP - September - Operational Readiness Exercise",4526271,4.00
+"VAZQUEZ, OSCAR","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
 "WALLEN, BRYAN","2026-09-18 12:16:19","Company Roundtable",4204323,4.00
+"WALLEN, BRYAN","2026-10-01 13:51:42","Identify recommended personal protective equipment from the following: Street Clothing or work uniforms,Structural Firefighting protective clothing, Positive Pressure self-contained breathing apparatus,Chemical protective clothing and equipment",4527399,4.00
+"WALLEN, BRYAN","2026-10-01 06:33:04","ATP - September - Shift Credit Hours",4526211,0
+"WALLEN, BRYAN","2026-10-01 13:30:37","ATP - October - Live Fire Evolutions",4527301,4.50
+"WALLEN, BRYAN","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"WALLEN, BRYAN","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"WALLEN, BRYAN","2026-09-18 12:12:24","Develop stress management techniques for paramedic professionals.",4204318,4.00
+"WALLEN, BRYAN","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"WALLEN, BRYAN","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"WALLEN, BRYAN","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"WALLEN, BRYAN","2026-09-24 17:52:20","Building Construction ",4225727,4.00
+"WALLEN, BRYAN","2026-10-01 06:55:36","ATP - September - Safety and Traffic Incident Management",4526260,1.00
+"WALLEN, BRYAN","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
 "WALLEN, BRYAN","2026-09-18 12:19:06","Identify factors that increase fire risk in buildings being constructed, renovated, or demolished",4204326,4.00
-"WALLEN, BRYAN","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"WASINGER, JACOB","2026-09-01 08:47:00","Company Roundtable",3996622,1.00
-"WASINGER, JACOB","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"WASINGER, JACOB","2026-10-01 06:33:10","ATP - September - Shift Credit Hours",4526215,0
+"WASINGER, JACOB","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"WASINGER, JACOB","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"WASINGER, JACOB","2026-10-01 07:01:56","ATP - September - Operational Readiness Exercise",4526271,4.00
+"WASINGER, JACOB","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"WASINGER, JACOB","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"WASINGER, JACOB","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"WASINGER, JACOB","2026-10-01 06:55:36","ATP - September - Safety and Traffic Incident Management",4526260,1.00
 "WASINGER, JACOB","2026-09-25 16:41:33","Charges appropriate hand line(s) or master stream",4228328,2.00
 "WASINGER, JACOB","2026-09-25 16:44:23","Hand lays supply line and a makes hydrant-to-pumper connection",4228332,1.00
-"WENNER, DANIEL","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"WENNER, DANIEL","2026-09-14 13:26:17","Choose the appropriate technique and demonstrate or simulate forced entry (Door), Conduct a search and rescue in a structure operating as a member of a team, Deploy and flow pre-connected hose, FORCED VENTILATION (POSTIVE PRESSURE) Ventilation properly performed and structure cleared of smoke, Fire Streams, Hose and Water Supply",4167817,4.00
+"WASINGER, JACOB","2026-10-01 14:36:29","Describe procedures for firefighters who become trapped or disoriented",4527609,1.00
+"WASINGER, JACOB","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"WASINGER, JACOB","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
 "WENNER, DANIEL","2026-09-14 17:34:09","Deploy and flow pre-connected hose, FIRE HYDRANT CONNECTION: Connect supply hose to hydrant, Marking a Defective Hose, Roll or Reload Hose",4168628,2.00
-"WHITNEY, ADAM","2026-09-29 17:01:03","OPS - SPECOPS - Rope Rescue Practical Skills",4418495,2.50
-"WHITNEY, ADAM","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"WENNER, DANIEL","2026-10-01 06:33:11","ATP - September - Shift Credit Hours",4526216,0
+"WENNER, DANIEL","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"WENNER, DANIEL","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"WENNER, DANIEL","2026-09-14 13:26:17","Choose the appropriate technique and demonstrate or simulate forced entry (Door), Conduct a search and rescue in a structure operating as a member of a team, Deploy and flow pre-connected hose, FORCED VENTILATION (POSTIVE PRESSURE) Ventilation properly performed and structure cleared of smoke, Fire Streams, Hose and Water Supply",4167817,4.00
+"WENNER, DANIEL","2026-10-01 06:33:04","ATP - Company Training",4526208,0
+"WHITNEY, ADAM","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"WHITNEY, ADAM","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"WHITNEY, ADAM","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"WHITNEY, ADAM","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
 "WHITNEY, ADAM","2026-09-17 13:12:13","OPS - SPECOPS - Rope Rescue Practical Skills",4201850,2.50
+"WHITNEY, ADAM","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"WHITNEY, ADAM","2026-09-29 17:01:03","OPS - SPECOPS - Rope Rescue Practical Skills",4418495,2.50
+"WHITNEY, ADAM","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"WHITNEY, ADAM","2026-10-01 06:55:36","ATP - September - Safety and Traffic Incident Management",4526260,1.00
+"WHITNEY, ADAM","2026-10-01 07:01:56","ATP - September - Operational Readiness Exercise",4526271,4.00
+"WHITNEY, ADAM","2026-10-01 06:33:11","ATP - September - Shift Credit Hours",4526219,0
 "WHITNEY, ADAM","2026-09-17 13:08:32","ATP - October - Live Fire Evolutions",4201841,11.00
+"WHITNEY, ADAM","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"WILLEFORD, JESSIE","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"WILLEFORD, JESSIE","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"WILLEFORD, JESSIE","2026-10-01 06:33:10","ATP - September - Shift Credit Hours",4526215,0
+"WILLEFORD, JESSIE","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"WILLEFORD, JESSIE","2026-10-01 14:36:29","Describe procedures for firefighters who become trapped or disoriented",4527609,1.00
+"WILLEFORD, JESSIE","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
 "WILLEFORD, JESSIE","2026-09-13 19:27:57","Lift/carry the ladder from the designated area or apparatus.",4165489,1.00
-"WILLEFORD, JESSIE","2026-09-01 08:47:00","Company Roundtable",3996622,1.00
-"WILLEFORD, JESSIE","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
-"WILSON, HEATHER","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"WILSON, HEATHER","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
 "WILSON, HEATHER","2026-09-17 13:12:42","OPS - SPECOPS - Rope Rescue Practical Skills",4201850,2.50
 "WILSON, HEATHER","2026-09-29 17:01:37","OPS - SPECOPS - Rope Rescue Practical Skills",4418495,2.50
+"WILSON, HEATHER","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"WILSON, HEATHER","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"WILSON, HEATHER","2026-10-01 06:33:05","ATP - September - Shift Credit Hours",4526213,0
+"WOFFORD, MICHAEL","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"WOFFORD, MICHAEL","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"WOFFORD, MICHAEL","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
 "WOFFORD, MICHAEL","2026-09-13 19:27:57","Lift/carry the ladder from the designated area or apparatus.",4165489,1.00
-"WOFFORD, MICHAEL","2026-09-01 08:47:00","Company Roundtable",3996622,1.00
-"WOFFORD, MICHAEL","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"WOFFORD, MICHAEL","2026-10-01 06:33:04","ATP - September - Shift Credit Hours",4526211,0
+"WOFFORD, MICHAEL","2026-10-01 14:36:29","Describe procedures for firefighters who become trapped or disoriented",4527609,1.00
+"WOFFORD, MICHAEL","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
+"WOFFORD, MICHAEL","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"WOLF, DARRELL","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
 "WOLF, DARRELL","2026-09-14 13:26:17","Choose the appropriate technique and demonstrate or simulate forced entry (Door), Conduct a search and rescue in a structure operating as a member of a team, Deploy and flow pre-connected hose, FORCED VENTILATION (POSTIVE PRESSURE) Ventilation properly performed and structure cleared of smoke, Fire Streams, Hose and Water Supply",4167817,4.00
-"WOLF, DARRELL","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"WOLF, DARRELL","2026-10-01 06:33:04","ATP - Company Training",4526208,0
+"WOLF, DARRELL","2026-10-01 07:01:56","ATP - September - Operational Readiness Exercise",4526271,4.00
+"WOLF, DARRELL","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"WOLF, DARRELL","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"WOLF, DARRELL","2026-10-01 06:32:58","ATP - September - Operational Readiness Exercise",4526207,0
+"WOLF, DARRELL","2026-10-01 06:33:10","ATP - September - Shift Credit Hours",4526215,0
+"WOLF, DARRELL","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"WOLF, DARRELL","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
 "WOLF, DARRELL","2026-09-14 17:34:09","Deploy and flow pre-connected hose, FIRE HYDRANT CONNECTION: Connect supply hose to hydrant, Marking a Defective Hose, Roll or Reload Hose",4168628,2.00
-"WRIGHT, TEDVIN","2026-09-01 15:44:47","ATP - August - Shift Credit Hours",4009927,3.50
+"WRIGHT, TEDVIN","2026-10-01 06:32:52","ATP - September - Safety and Traffic Incident Management",4526206,0
+"WRIGHT, TEDVIN","2026-10-01 07:05:58","ATP - September - Shift Credit Hours",4526274,33.00
+"WRIGHT, TEDVIN","2026-10-01 06:52:59","ATP - September - Mentoring and Coaching",4526249,1.00
+"WRIGHT, TEDVIN","2026-10-01 06:32:39","ATP - September - Multi-Company Drills",4526203,0
+"WRIGHT, TEDVIN","2026-10-01 06:33:04","ATP - September - Shift Credit Hours",4526211,0
+"WRIGHT, TEDVIN","2026-10-01 06:48:40","ATP - September - Multi-Company Drills",4526222,5.00
+"WRIGHT, TEDVIN","2026-10-01 06:55:36","ATP - September - Safety and Traffic Incident Management",4526260,1.00
+"WRIGHT, TEDVIN","2026-10-01 06:32:46","ATP - September - Mentoring and Coaching",4526205,0
